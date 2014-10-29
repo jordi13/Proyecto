@@ -1,0 +1,76 @@
+<Project name="Assembly-UnityScript" fileversion="2.0" UsePartialTypes="False" DefaultNamespace="AssemblyUnityScript" language="UnityScript" Configuration="Debug" Platform="AnyCPU" AppDesignerFolder="Properties" AssemblyName="Assembly-UnityScript" TargetFrameworkVersion="v3.5" FileAlignment="512" targetFramework="3.5" ctype="DotNetProject">
+  <Configurations>
+    <Configuration name="Debug" Optimize="false" DefineConstants="DEBUG;TRACE;UNITY_STANDALONE;ENABLE_MICROPHONE;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;ENABLE_AUDIO_FMOD;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PHYSICS;ENABLE_TERRAIN;ENABLE_CACHING;ENABLE_SUBSTANCE;ENABLE_GENERICS;ENABLE_CLOTH;ENABLE_MOVIES;ENABLE_AUDIO;ENABLE_WWW;ENABLE_SHADOWS;ENABLE_DUCK_TYPING;UNITY_4_0_0;UNITY_4_0;UNITY_STANDALONE_WIN;ENABLE_PROFILER;UNITY_EDITOR;UNITY_TEAM_LICENSE" WarningLevel="4" NoWarn="0169" ctype="DotNetProjectConfiguration">
+      <Output directory="Temp/bin/Debug/" assembly="Assembly-UnityScript" />
+      <Build debugmode="True" target="Library" />
+      <Execution consolepause="True" runwithwarnings="True" runtime="MsNet" />
+      <CodeGeneration DefineConstants="DEBUG;TRACE;UNITY_STANDALONE;ENABLE_MICROPHONE;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;ENABLE_AUDIO_FMOD;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PHYSICS;ENABLE_TERRAIN;ENABLE_CACHING;ENABLE_SUBSTANCE;ENABLE_GENERICS;ENABLE_CLOTH;ENABLE_MOVIES;ENABLE_AUDIO;ENABLE_WWW;ENABLE_SHADOWS;ENABLE_DUCK_TYPING;UNITY_4_0_0;UNITY_4_0;UNITY_STANDALONE_WIN;ENABLE_PROFILER;UNITY_EDITOR;UNITY_TEAM_LICENSE" ctype="UnityScriptCompilationParameters" />
+    </Configuration>
+    <Configuration name="Release" Optimize="true" DefineConstants="TRACE" WarningLevel="4" NoWarn="0169" ctype="DotNetProjectConfiguration">
+      <Output directory="Temp/bin/Release/" assembly="Assembly-UnityScript" />
+      <Build debugmode="False" target="Library" />
+      <Execution consolepause="True" runwithwarnings="True" runtime="MsNet" />
+      <CodeGeneration DefineConstants="TRACE" ctype="UnityScriptCompilationParameters" />
+    </Configuration>
+  </Configurations>
+  <Contents>
+    <File subtype="Code" buildaction="Compile" name="Assets/AtaqueCuchillo.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/AutoMove.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/BasicScriptUtils/Scripts/Examples/SimpleVelocityLimiter.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/BloodSplatJS.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/CajaSalud.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/DestroyBala.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/GUIDimensionada.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Guns/Scripts/GunPlayer.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Guns/Scripts/LoadGun.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Modelos/tyrant_zombie/EnemigoMierder.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/Armas/ArmasEstado.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/Armas/SplashEstado.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/AutoDestruir.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/CargarMenu.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/DibujadorArmas.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/Disparo Pistola.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/Disparo.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/DisparoSelectivo.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/EnterCube.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/GUI/Gradient Bar.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/GUI/Health Bar pictures.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/GUI/Health Bar.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/GUI/HeathText.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/GeneralVars.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/GeneralVars1.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/LoadMenu.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/ManejadordeBlancos.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/MenuGUI.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/Municion.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/Scripts/Scripts/prueba Disparo Alternativo.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/armasEstado.js" />
+    <File subtype="Code" buildaction="Compile" name="Assets/seguir_camera.js" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Standard Assets/Projectors/Guidelines.txt" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Guns/Standard Assets (Mobile)/Shaders/Particle Shaders/Mobile Multiply Culled.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Guns/Standard Assets (Mobile)/Shaders/Miscellaneous Shaders/Mobile Background.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Standard Assets/Projectors/Sources/Shaders/Projector Multiply.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Guns/Standard Assets (Mobile)/Shaders/Vertex Colored Shaders/Mobile Transparent Vertex Color.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Standard Assets/Tessellation Shaders/BumpedSpecularSmooth.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Guns/Standard Assets (Mobile)/Shaders/Miscellaneous Shaders/Mobile Detail.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Standard Assets/Particles/Sources/Shaders/Particle Alpha Blend (Queue +100).shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Standard Assets/Skyboxes/_skybox info.txt" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Standard Assets/Projectors/Sources/Shaders/Projector Light.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Standard Assets/Water (Basic)/Sources/Shaders/FX-Water Simple.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Guns/Standard Assets (Mobile)/Shaders/Lightmap Shaders (Legacy)/Mobile Lightmap Reflective.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Guns/Standard Assets (Mobile)/Shaders/Particle Shaders/Mobile Particles Additive Culled.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Guns/Standard Assets (Mobile)/Shaders/Vertex Colored Shaders/Mobile Vertex Colored.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Guns/Standard Assets (Mobile)/Shaders/Lightmap Shaders (Legacy)/Mobile Lightmap Only.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Guns/Standard Assets (Mobile)/Shaders/Lightmap Shaders (Legacy)/Mobile Lightmap AlphaTest.shader" />
+    <File subtype="Code" buildaction="Nothing" name="Assets/Standard Assets/Tessellation Shaders/BumpedSpecularDisplacement.shader" />
+  </Contents>
+  <References>
+    <ProjectReference specificVersion="False" type="Gac" localcopy="True" refto="System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <ProjectReference specificVersion="False" type="Gac" localcopy="True" refto="System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <ProjectReference specificVersion="False" type="Gac" localcopy="True" refto="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+    <ProjectReference specificVersion="False" type="Assembly" localcopy="True" refto="../../../Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll" />
+    <ProjectReference specificVersion="False" type="Assembly" localcopy="True" refto="../../../Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll" />
+    <ProjectReference type="Project" localcopy="True" refto="Assembly-CSharp-firstpass" />
+    <ProjectReference type="Project" localcopy="True" refto="Assembly-UnityScript-firstpass" />
+  </References>
+</Project>
