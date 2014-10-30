@@ -1,5 +1,5 @@
 <Project name="Assembly-UnityScript" fileversion="2.0" UsePartialTypes="False" DefaultNamespace="AssemblyUnityScript" language="UnityScript" Configuration="Debug" Platform="AnyCPU" AppDesignerFolder="Properties" AssemblyName="Assembly-UnityScript" TargetFrameworkVersion="v3.5" FileAlignment="512" targetFramework="3.5" ctype="DotNetProject">
-  <Configurations>
+  <Configurations active="Debug">
     <Configuration name="Debug" Optimize="false" DefineConstants="DEBUG;TRACE;UNITY_STANDALONE;ENABLE_MICROPHONE;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;ENABLE_AUDIO_FMOD;ENABLE_NETWORK;ENABLE_MONO;ENABLE_PHYSICS;ENABLE_TERRAIN;ENABLE_CACHING;ENABLE_SUBSTANCE;ENABLE_GENERICS;ENABLE_CLOTH;ENABLE_MOVIES;ENABLE_AUDIO;ENABLE_WWW;ENABLE_SHADOWS;ENABLE_DUCK_TYPING;UNITY_4_0_0;UNITY_4_0;UNITY_STANDALONE_WIN;ENABLE_PROFILER;UNITY_EDITOR;UNITY_TEAM_LICENSE" WarningLevel="4" NoWarn="0169" ctype="DotNetProjectConfiguration">
       <Output directory="Temp/bin/Debug/" assembly="Assembly-UnityScript" />
       <Build debugmode="True" target="Library" />
