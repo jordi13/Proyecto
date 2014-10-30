@@ -1,11 +1,10 @@
 var maximaVida : int = 100;
-//Sonidos prova
-blabla
+//Sonidos
 var pickUp: AudioClip;
 function Start () {
 
 }
-bjnbhj
+
 function Update () {
 
 }
